@@ -52,7 +52,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 4. **Open in browser**
    Navigate to `http://localhost:5173`
 
-## 🔑 Default Login Credentials
+##  Default Login Credentials
 
 **Admin Account:**
 - **Email:** `admin@me.com`
@@ -63,7 +63,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 - **Password:** `123`
 *(Note: There are other mock employee accounts available in the source code as well. They all use the password `123`)*
 
-## 🤝 Contributing
+##  Contributing
 Contributions, issues, and feature requests are welcome!
 
 ## 📜 License
