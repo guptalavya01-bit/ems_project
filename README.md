@@ -1,8 +1,8 @@
-# 🌟 Aura TaskManager
+#  Aura TaskManager
 
 Aura TaskManager is a premium, modern Employee Management System (EMS) designed with a stunning glassmorphism UI. Built with React and Tailwind CSS, it provides a seamless and visually engaging experience for both Administrators and Employees to track, manage, and assign daily tasks.
 
-## ✨ Features
+##  Features
 
 - **Premium Glassmorphic UI**: Beautiful semi-transparent components, vibrant gradient accents, and dynamic background layouts.
 - **Role-Based Dashboards**: 
@@ -12,21 +12,21 @@ Aura TaskManager is a premium, modern Employee Management System (EMS) designed 
 - **Real-time Status Tracking**: Instantly view metrics for New, Active, Completed, and Failed tasks.
 - **Persistent Data**: Utilizes browser LocalStorage to mock backend functionality and maintain session state seamlessly.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React (Vite)
 - **Styling**: Tailwind CSS
 - **Icons**: Lucide-react
 - **Typography**: Inter & Outfit (Google Fonts)
 
-## 📸 Screenshots
+##  Screenshots
 
 *(Add your screenshots here)*
 - `Admin Dashboard View`
 - `Employee Dashboard View`
 - `Task Creation Form`
 
-## 💻 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
