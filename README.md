@@ -66,5 +66,5 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 ##  Contributing
 Contributions, issues, and feature requests are welcome!
 
-## 📜 License
+##  License
 This project is open source and available under the [MIT License](LICENSE).
